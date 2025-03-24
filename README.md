@@ -1,0 +1,1 @@
+This is a Python script for generating SystemVerilog modules, following the IEEE 1800-2017 syntax.
